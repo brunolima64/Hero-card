@@ -1,2 +1,3 @@
 # Hero-card
-hero card responsive tailwindcss
+Responsive hero card using tailwindcss
+
